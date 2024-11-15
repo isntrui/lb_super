@@ -1,0 +1,6 @@
+[submodule "lb"]
+	path = lb
+	url = https://github.com/isntrui/lb.git
+[submodule "lb_client"]
+	path = lb_client
+	url = https://github.com/isntrui/lb_client.git
